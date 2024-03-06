@@ -12,5 +12,5 @@ noButton.addEventListener('click', () => {
 yesButton.addEventListener('click', () => {
 	responseElement.style.fontWeight = 'bold';
 	responseElement.style.fontSize = '1.2em';
-	responseElement.innerText = 'You are GAYYYYYYY!';
+	responseElement.innerText = 'Yes? , You are officially Marco's Valentine!!';
 });
